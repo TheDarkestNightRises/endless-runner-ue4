@@ -1,14 +1,23 @@
 # EndlessRunner
 An endless runner made in UE4.
 
-Menu : 
+## Menu : 
 ![image](https://user-images.githubusercontent.com/91905169/194716483-e2b99d7b-3acd-4394-9a22-92a9cefc814b.png)
 
-🎯 Gameplay Description :
+## 🎯 Gameplay Description :
 
 You play as a robot trying to get as much energy as possible. You can jump over obstacles that are generated randomly.
 
-🎮 Screenshoots :
+## Features
+
+- Run over an endless generated terrain
+- Random obstacles
+- Collect as many coins as possible
+- Beat your highscore
+
+
+
+## 🎮 Screenshoots :
 
 ![image](https://user-images.githubusercontent.com/91905169/194716516-0d2ad18d-c0a9-420c-80a6-b1f539624915.png)
 
